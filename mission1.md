@@ -5,16 +5,32 @@ The goal is to estimate Earth's circumference.
 ## Method
 
 The plan is to use the shadow of sticks pointing at Earth's center. By measuring the shadow that
-such a stick produce when the Sun is at its zenith, and this, at two different latitudes, we can
+such a stick produces when the Sun is at its zenith, and this, at two different latitudes, we can
 calculate the angle difference that a given latitude change produced, and thus, calculate Earth's
 circumference.
+
+Our first reading will be somewhere in the northern hemisphere, and our second reading, `X`km
+north. The length of the shadow will give us the angle at which the light from the Sun hits th
+ground. Let's call that angle A. Because we know that angle B is `X`km north, our circumference
+will simply be `2πX/(B-A)`.
+
+Seasons will affect our angles, but not our calculation because all we care about is relative
+angles.
 
 ## Simulation
 
 To ensure that our plan is sound, let's try to detail our calculations with an hypothetical
-Earth with a 1000km diameter.
+Earth with a 1000km diameter. If the null angle is where the sun hits with no shadow, let's
+imagine our first reading being `π/4` (45 degrees) northward.
 
-*TODO*
+If our stick is 1m long, it should have a 1m shadow when the sun is at its zenith.
+
+Now, if we go 100km north for our second reading, our angle will be `π/4 + (100/1000π)⋅2π`, or,
+`π/4 + 0.2`. Using the tangeant function, we'll see that our shadow should have a length of
+`tan(π/4 + 0.2) / 1m` (`tan(angle) = opposite / adjacent`), that is, `1.508m`. That measure
+would be ebough for us to work our way up to a `1000πkm` circumference.
+
+*TODO: diagram*
 
 ## Sources of innaccuracies
 
@@ -23,6 +39,7 @@ Earth with a 1000km diameter.
 * The stick will not point precisely at the center.
 * If the terrain is not perfectly flat, shadow's length will not be the same.
 * The time at which the measurement will occur won't be precisely the time of the zenith.
+* Distance measurement between the two readings will be inexact.
 * Clouds could affect the sharpness of the shadow.
 
 ## Innaccuracies mitigation
