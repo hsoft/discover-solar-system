@@ -40,6 +40,8 @@ would be enough for us to work our way up to a `1000πkm` circumference.
 * If the terrain is not perfectly flat, shadow's length will not be the same.
 * The time at which the measurement will occur won't be precisely the time of the zenith.
 * Distance measurement between the two readings will be inexact.
+* Because our two readings are not taken exactly at the same time, Earth will have tilted
+  compared to the sun. This will affect our shadow length.
 * Clouds could affect the sharpness of the shadow.
 
 ## Innaccuracies mitigation
@@ -56,6 +58,7 @@ these issues as much as possible.
 * To ensure that we measure our shadow at the right time, we'll make multiple measurements
   around the time when zenith should be reached. The shadow will shrink and reach its minimum
   at zenith, so we can simply measure the shadow until it starts growing.
+* The second reading will be taken one day after the first to minimize Earth tilting impact.
 * For this mission, we'll estimate the circumference of a round Earth and forget about this
   centrifugal force thing. We'll try to make our estimates more exact in a future mission.
 
