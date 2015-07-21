@@ -17,6 +17,11 @@ will simply be `2πX/(B-A)`.
 Seasons will affect our angles, but not our calculation because all we care about is relative
 angles.
 
+### Inspiration
+
+[Eratosthenes](https://en.wikipedia.org/wiki/Eratosthenes), at around 200BC, estimated Earth
+circumference using shadow measurements and arrived at surprisingly accurate results.
+
 ## Simulation
 
 To ensure that our plan is sound, let's try to detail our calculations with an hypothetical
