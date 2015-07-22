@@ -17,6 +17,8 @@ will simply be `2πX/(B-A)`.
 Seasons will affect our angles, but not our calculation because all we care about is relative
 angles.
 
+![Stick shadow diagram](mission1/stick-shadow.png)
+
 ### Calculation script
 
 There's a python 3 script to make the calculation. To run it, do
@@ -39,8 +41,6 @@ Now, if we go 100km north for our second reading, our angle will be `π/4 + (100
 `π/4 + 0.2`. Using the tangeant function, we'll see that our shadow should have a length of
 `tan(π/4 + 0.2) / 1m` (`tan(angle) = opposite / adjacent`), that is, `1.508m`. That measure
 would be enough for us to work our way up to a `1000πkm` circumference.
-
-*TODO: diagram*
 
 ## Sources of innaccuracies
 
