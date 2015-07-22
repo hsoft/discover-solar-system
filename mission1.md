@@ -17,6 +17,11 @@ will simply be `2πX/(B-A)`.
 Seasons will affect our angles, but not our calculation because all we care about is relative
 angles.
 
+### Calculation script
+
+There's a python 3 script to make the calculation. To run it, do
+`python3 mission1/calc-earth-size.py`.
+
 ### Inspiration
 
 [Eratosthenes](https://en.wikipedia.org/wiki/Eratosthenes), at around 200BC, estimated Earth
