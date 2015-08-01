@@ -2,6 +2,12 @@
 
 The goal is to estimate Earth's circumference.
 
+## Current status
+
+On hold. This mission requires that I travel many kilometers up north and I don't know yet when
+I'll be able to do that. Rather than letting this block my progress, I'm planning other missions
+with simpler experiment logistics.
+
 ## Method
 
 The plan is to use the shadow of sticks pointing at Earth's center. By measuring the shadow that
