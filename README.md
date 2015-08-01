@@ -54,6 +54,10 @@ calculate the orbit of Earth and the Moon. My first mission will be to figure ou
 Earth. My immediate concern is to figure out my position on Earth without relying on Google maps...
 1, 2, 3, *GO*!
 
+## Gear
+
+Gear can be used in multiple missions, so I document it in [its own page](gear.md).
+
 ## Missions
 
 1. [Mission 1: Earth's circumference](mission1.md)
