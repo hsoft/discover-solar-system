@@ -13,9 +13,9 @@ It's important to remember that this points to the *magnetic* north, not the geo
 readings I take with it have to be accompanied by *where* I took them so that we can calculate
 (I'm don't know how yet) the geographic north.
 
-## Handmade sundial
+## Homemade sundial
 
-* Self made with srap materials on hand
+* Self made with scrap materials on hand
 
 ![Homemade sundial](gear/homemade-sundial.jpg)
 
