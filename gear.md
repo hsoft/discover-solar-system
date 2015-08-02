@@ -25,6 +25,9 @@ able to observe the sun's shadow and easily measure it.
 I use it by sticking a piece of paper on it (making a hole in it for the stick to pass through)
 and then mark the north, then the mark the shadow's direction.
 
+The stick is not glued in. It can be removed, which can be useful if, for example, I want to place
+a compass centered where the stick was. It also makes transport easier.
+
 I didn't particularly strive for precision here, so the stick tilts a little bit. I've marked the
 tilting direction with a black marker. I figured it out by placing it directing under a lamp and
 turning it until the shadow was at its longest (the length of the mark was the length of the
