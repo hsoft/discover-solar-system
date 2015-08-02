@@ -46,7 +46,7 @@ If our stick is 1m long, it should have a 1m shadow when the sun is at its zenit
 Now, if we go 100km north for our second reading, our angle will be `π/4 + (100/1000π)⋅2π`, or,
 `π/4 + 0.2`. Using the tangeant function, we'll see that our shadow should have a length of
 `tan(π/4 + 0.2) / 1m` (`tan(angle) = opposite / adjacent`), that is, `1.508m`. That measure
-would be enough for us to work our way up to a `1000πkm` circumference.
+would be enough for us to work our way up to a `1000πkm` diameter.
 
 ## Sources of innaccuracies
 
