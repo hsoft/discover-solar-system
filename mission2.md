@@ -64,3 +64,16 @@ The first reading was made on 2015-08-01 20:15, but it was a little too late, th
 faint. I took the reading anyway, but following ones will take place earlier. I need a protractor
 to calculate the angle and thus record it.
 
+2015-08-10: I've had troubles being available for readings lately, but things got better and I
+started again. On 2015-08-08, I took a reading that was very different from my first ones and I was
+puzzled by this. I realized that my compass was affected by my immediate surrounding (magnetic
+fields probably). Yesterday, I went around the place I took my readings and observed that the
+North indicated by my compass varied wildly depending on where I was. Therefore, my readings can
+all be considered faulty and I have to rethink my mission.
+
+## Experiment results
+
+Because readings are taken in an urban settings with electric cables all around, my compass is
+unreliable.  At least, that's my guess. I can't achieve any reliable result with my method.
+I'll need to rethink this.
+
