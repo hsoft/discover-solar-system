@@ -61,5 +61,6 @@ Gear can be used in multiple missions, so I document it in [its own page](gear.m
 ## Missions
 
 1. [Mission 1: Earth's circumference](mission1.md)
-2. [Mission 2: Sun's position at dusk and dawn](mission2.md)
+1. [Mission 2: Sun's position at dusk and dawn](mission2.md)
+1. [Mission 2a: Where is my North?](mission2a.md)
 
