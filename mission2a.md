@@ -39,9 +39,14 @@ spot. There are a lot of high buildings nearby, but they don't block the sun at 
 least at this time of the year) and unlike other vantage points nearby, there aren't any trees
 messing my observations with their shadows.
 
+![Ste-Claire stairs at dawn](mission2a/steclaire-dawn.jpg)
+![Ste-Claire stairs at dusk](mission2a/steclaire-dusk.jpg)
+
 There's a half circle observation stage over the stairs which is a pretty nice spot and,
 conveniently, the half circle is made of two concrete slabs, clearly separated by a stright line.
 I'll use that line as my reference feature.
+
+![Sundial on its reference point](mission2a/sundial-on-refpoint.jpg)
 
 ### Sundial innacuracies
 
